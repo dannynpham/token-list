@@ -93133,6 +93133,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5Ui5DSZLNwAGhV2e6m2ssNYuTe4gnAFSkKN3fTmUJEMo",
+      "symbol": "TestCRWN",
+      "name": "Test CRWN",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Kingdom-of-Dwarves/nft-website/main/react-app/public/wl-token.png?token=GHSAT0AAAAAABIGSEJSVRW6OOWCPU33INV2YPUORTQ",
+      "tags": [
+        "general-token"
+      ]
     }
   ],
   "version": {
